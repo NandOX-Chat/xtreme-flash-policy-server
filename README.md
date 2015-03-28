@@ -1,19 +1,16 @@
-# xtreme-flash-policy
-Adobe Flash cross-domain-policy file delivering service focused (but not limited to) on IRC environments
+# Xtreme Flash Policy Server
 
-README.txt for Xtreme Flash Policy [NandOX+Endurance]
+----------------------------------
+What's Xtreme Flash Policy Server?
+----------------------------------
 
----------------------------
-What's Xtreme Flash Policy?
----------------------------
-
-It's an Adobe Flash cross-domain-policy file delivering service focused (but not limited to) on IRC environments.
+It's an Adobe Flash cross-domain-policy file socket delivering server focused (but not limited to) on IRC environments.
 
 Although it's designed to be used in conjunction with LightIRC (http://www.lightirc.com/) it's suitable for many other
 environments which needs to serve cross-domain-policy files through network as long as meets Adobe specifications
 (more info about Adobe cross-domain-policy: http://www.adobe.com/devnet/articles/crossdomain_policy_file_spec.html).
 
-Xtreme Flash Policy includes some additional useful features (optionals):
+Xtreme Flash Policy Server includes some additional useful features (optionals):
 
 * Three peer connection pool methods: QUEUE, FORK and THREAD.
 * Flood connect protection by using max-conn and time thresholds (detect and blacklist).
@@ -28,6 +25,7 @@ INSTALL INSTRUCTIONS
 Our goal is you can run this software out of the box, however, it may be a good idea to take a look the documentation before at:
 
 [English] http://www.nandox.com/en/xtreme-flash-policy/
+
 [Spanish] http://www.nandox.com/xtreme-flash-policy/
 
 The NandOX IRC Chat Network Development Team
@@ -44,6 +42,11 @@ Legend
  ! = Bug fixed (I hope)
 
 Thanks to people who has been contributed to testing, sending suggestions and reporting bugs (they are mentioned where corresponding)
+
+Version 1.1.1 (released at 28-03-2015)
+------------------------------------
+
+ - Code revision upgrade.
 
 Version 1.1 (released at 11-01-2012)
 ------------------------------------
