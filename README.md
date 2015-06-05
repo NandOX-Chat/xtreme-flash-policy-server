@@ -24,9 +24,9 @@ INSTALL INSTRUCTIONS
 
 Our goal is you can run this software out of the box, however, it may be a good idea to take a look the documentation before at:
 
-[English] http://www.nandox.com/en/xtreme-flash-policy/
+[English] http://flash-policy-server.nandox.com
 
-[Spanish] http://www.nandox.com/xtreme-flash-policy/
+[Spanish] http://flash-policy-server.nandox.com/es/
 
 The NandOX IRC Chat Network Development Team
 
